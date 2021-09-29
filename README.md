@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/C++-ca4245?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-00a98f?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-ff9e0f?style=flat-square&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/openstack-ed1944?style=flat-square&logo=openstack&logoColor=white"/>
 
 </div>
 <br/>
